@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NewBadGameShow.gen.cpp.obj": [
+			"MyCharacter.gen.cpp.obj",
+			"NewBadGameShow.init.gen.cpp.obj"
+		]
+	}
+}
