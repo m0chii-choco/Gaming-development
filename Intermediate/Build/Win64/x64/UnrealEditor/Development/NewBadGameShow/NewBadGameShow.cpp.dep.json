@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gocha\\onedrive\\desktop\\newbadgameshow\\source\\newbadgameshow\\newbadgameshow.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gocha\\onedrive\\desktop\\newbadgameshow\\intermediate\\build\\win64\\x64\\newbadgameshoweditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\gocha\\onedrive\\desktop\\newbadgameshow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\newbadgameshow\\definitions.newbadgameshow.h",
+            "c:\\users\\gocha\\onedrive\\desktop\\newbadgameshow\\source\\newbadgameshow\\newbadgameshow.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
